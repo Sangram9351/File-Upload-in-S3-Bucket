@@ -48,6 +48,7 @@ e.g: {
 Run the Function:
 Execute the function from the console and verify that the file is uploaded to your S3 bucket.
 
-Verify the File in S3
+**Step 5: Verify the File in S3**
+
 Go to the S3 bucket in the AWS Management Console and check that the file (example.pdf) exists.
 
